@@ -6,6 +6,7 @@
 
 - #### My webiste is a summary of who I am and what keeps me going! All my passions/interests in one big spiderweb!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagiso-me&show_icons=true&theme=radical)
 
 <!---
 Kagiso-me/Kagiso-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
