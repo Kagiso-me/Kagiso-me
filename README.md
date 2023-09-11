@@ -6,6 +6,7 @@
 
 - #### My webiste is a summary of who I am and what keeps me going! All my passions/interests in one big spiderweb!
 
+# 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagiso-me&show_icons=true&theme=radical)
 
 <!---
