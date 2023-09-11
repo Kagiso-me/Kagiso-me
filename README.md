@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Im reachable via my website - https://kagiso.me
 
-- My webiste is a summary of who I am and what keeps me going! All my passions/interests in one big spiderweb!
+- #### My webiste is a summary of who I am and what keeps me going! All my passions/interests in one big spiderweb!
+
 
 <!---
 Kagiso-me/Kagiso-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
